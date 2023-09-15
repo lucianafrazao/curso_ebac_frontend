@@ -97,3 +97,30 @@ section h2 {
     background-color: rgba(0, 255, 0, 0.8);
     color: black;
 }
+
+#economy {
+    background-color: rgba(0, 255, 242, 0.1);
+}
+
+#economy .articles article a {
+    background-color: rgba(0, 153, 255, 0.8);
+    color: black;
+}
+
+#tech {
+    background-color: rgba(255, 0, 76, 0.1);
+}
+
+#tech .articles article a {
+    background-color: rgba(255, 0, 234, 0.8);
+    color: black;
+}
+
+#entertainment {
+    background-color: rgba(255, 145, 0, 0.1);
+}
+
+#entertainment .articles article a {
+    background-color: rgba(255, 123, 0, 0.8);
+    color: black;
+}
