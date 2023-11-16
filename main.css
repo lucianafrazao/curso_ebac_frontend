@@ -45,7 +45,6 @@ button:hover {
     background-color: #27ae60;
     padding: 16px;
     color: #fff;
-    display: none;
 }
 
 .error-msg {
@@ -54,7 +53,6 @@ button:hover {
     background-color: darkred;
     color: #fff;
     margin-bottom: 8px;
-    display: none;
 }
 
 input.error {
